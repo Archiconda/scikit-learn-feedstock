@@ -17,6 +17,7 @@ Current build status
 ====================
 
 [![Linux,OSX](https://img.shields.io/circleci/project/github/conda-forge/scikit-learn-feedstock/master.svg?label=Linux,OSX)](https://circleci.com/gh/conda-forge/scikit-learn-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5c3440e93aeb3c070045b195/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/scikit-learn-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
